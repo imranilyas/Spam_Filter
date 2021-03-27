@@ -1,9 +1,9 @@
 ﻿  spam_filter.cpp
-c:\users\imran\documents\github\spam_filter\spam_filter\spam_filter.cpp(102): warning C4018: '<': signed/unsigned mismatch
-c:\users\imran\documents\github\spam_filter\spam_filter\spam_filter.cpp(105): warning C4018: '<': signed/unsigned mismatch
-c:\users\imran\documents\github\spam_filter\spam_filter\spam_filter.cpp(150): warning C4018: '<': signed/unsigned mismatch
-c:\users\imran\documents\github\spam_filter\spam_filter\spam_filter.cpp(174): warning C4018: '<': signed/unsigned mismatch
-c:\users\imran\documents\github\spam_filter\spam_filter\spam_filter.cpp(185): warning C4018: '<': signed/unsigned mismatch
-c:\users\imran\documents\github\spam_filter\spam_filter\spam_filter.cpp(195): warning C4018: '<': signed/unsigned mismatch
-c:\users\imran\documents\github\spam_filter\spam_filter\spam_filter.cpp(213): warning C4018: '<': signed/unsigned mismatch
+c:\users\imran\documents\github\spam_filter\spam_filter\spam_filter.cpp(103): warning C4018: '<': signed/unsigned mismatch
+c:\users\imran\documents\github\spam_filter\spam_filter\spam_filter.cpp(106): warning C4018: '<': signed/unsigned mismatch
+c:\users\imran\documents\github\spam_filter\spam_filter\spam_filter.cpp(151): warning C4018: '<': signed/unsigned mismatch
+c:\users\imran\documents\github\spam_filter\spam_filter\spam_filter.cpp(175): warning C4018: '<': signed/unsigned mismatch
+c:\users\imran\documents\github\spam_filter\spam_filter\spam_filter.cpp(186): warning C4018: '<': signed/unsigned mismatch
+c:\users\imran\documents\github\spam_filter\spam_filter\spam_filter.cpp(196): warning C4018: '<': signed/unsigned mismatch
+c:\users\imran\documents\github\spam_filter\spam_filter\spam_filter.cpp(214): warning C4018: '<': signed/unsigned mismatch
   Spam_Filter.vcxproj -> C:\Users\imran\Documents\GitHub\Spam_Filter\Debug\Spam_Filter.exe

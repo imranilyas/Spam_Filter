@@ -59,7 +59,7 @@ int main() {
 		}
 
 		if (getFirstWord(one_line) != "") {
-			if (countUppercase(one_line) > capitalParameter) { //checks if subject_line has > 50% full capitalized words
+			if (countUppercase(one_line) > capitalParameter) { //checks if body has > 50% full capitalized words
 				spam_text = spam_text + 40;
 			}
 		}
@@ -78,6 +78,7 @@ int main() {
 		}
 		cout << "Would you like to classify another email (y or n)? ";
 		cin >> choice;
+		choice = tolower(choice);
 		while (choice != 'y' && choice != 'n') {
 			cout << "Please enter y or n.";
 			cout << endl << "Would you like to classify another email (y or n)? ";
